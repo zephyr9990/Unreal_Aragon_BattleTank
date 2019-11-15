@@ -3,7 +3,7 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 
 Features C++ and Blueprinting
 
-## Finished Videos
+## Finished Course Videos
 * 178 Intro, Notes & Section 4 Assets
 * 179 Battle Tank Overview
 * 180 Game Design Document
@@ -11,3 +11,4 @@ Features C++ and Blueprinting
 * 182 Creating and Deleting Landscapes
 * 183 Landscape Setup and Scaling
 * 184 A Landscaping Process
+* 185 Upgrading Engine Version
