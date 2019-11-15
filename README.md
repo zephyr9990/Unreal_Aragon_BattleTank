@@ -9,3 +9,4 @@ Features C++ and Blueprinting
 * 180 Game Design Document
 * 181 Setting Up a Github "Repo"
 * 182 Creating and Deleting Landscapes
+* 183 Landscape Setup and Scaling
