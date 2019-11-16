@@ -18,3 +18,4 @@ Features C++ and Blueprinting
 * 189 Tank Control System
 * 190 Actors from Multiple Meshes
 * 191 Improved Models
+* 192 Configuring a Tank
