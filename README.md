@@ -16,3 +16,5 @@ Features C++ and Blueprinting
 * 187 Flat Shading Low Poly Landscapes
 * 188 More Landscaping Tools
 * 189 Tank Control System
+* 190 Actors from Multiple Meshes
+* 191 Improved Models
