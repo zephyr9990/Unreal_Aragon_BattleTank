@@ -20,3 +20,4 @@ Features C++ and Blueprinting
 * 191 Improved Models
 * 192 Configuring a Tank
 * 193 3rd Person Camera Control
+* 194 Fixing 3rd Person Camera Rotation
