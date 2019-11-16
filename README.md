@@ -19,3 +19,4 @@ Features C++ and Blueprinting
 * 190 Actors from Multiple Meshes
 * 191 Improved Models
 * 192 Configuring a Tank
+* 193 3rd Person Camera Control
