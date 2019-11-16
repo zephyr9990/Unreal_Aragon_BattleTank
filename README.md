@@ -14,3 +14,4 @@ Features C++ and Blueprinting
 * 185 Upgrading Engine Version
 * 186 Using Landscape Layers
 * 187 Flat Shading Low Poly Landscapes
+* 188 More Landscaping Tools
