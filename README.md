@@ -22,4 +22,6 @@ Features C++ and Blueprinting
 * 193 3rd Person Camera Control
 * 194 Fixing 3rd Person Camera Rotation
 * 195 User Interface (UI) in Unreal
-* 196 UI Scale Box, Buttons and Mouse
+* 196 Main Menu Screens
+* 197 UI Scale Box, Buttons and Mouse
+* 198 Controller Ready Navigation
