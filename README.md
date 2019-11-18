@@ -30,3 +30,4 @@ Features C++ and Blueprinting
 * 201 Delegating to Components
 * 202 Using virtual and override
 * 203 Overloading and Polymorphism
+* 204 Virtual Functions and Vtables
