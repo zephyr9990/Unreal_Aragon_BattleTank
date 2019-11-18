@@ -28,3 +28,4 @@ Features C++ and Blueprinting
 * 199 Creating Unreal Engine UI with UMG and C++
 * 200 Trial Packaging Your Game
 * 201 Delegating to Components
+* 202 Using virtual and override
