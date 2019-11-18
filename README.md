@@ -27,3 +27,4 @@ Features C++ and Blueprinting
 * 198 Controller Ready Navigation
 * 199 Creating Unreal Engine UI with UMG and C++
 * 200 Trial Packaging Your Game
+* 201 Delegating to Components
