@@ -26,3 +26,4 @@ Features C++ and Blueprinting
 * 197 UI Scale Box, Buttons and Mouse
 * 198 Controller Ready Navigation
 * 199 Creating Unreal Engine UI with UMG and C++
+* 200 Trial Packaging Your Game
