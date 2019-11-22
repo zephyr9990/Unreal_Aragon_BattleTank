@@ -34,3 +34,4 @@ Features C++ and Blueprinting
 * 205 Creatubg an AI Controller Class
 * 206 Get the Player Controller with C++
 * 207 Add Tick() to PlayerController
+* 208 Creating an Out Parameter Method
