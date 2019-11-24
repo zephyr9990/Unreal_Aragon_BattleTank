@@ -37,3 +37,4 @@ Features C++ and Blueprinting
 * 208 Creating an Out Parameter Method
 * 209 Finding Screen Pixel Coordinates
 * 210 Using Deproject To World
+* 211 Using LineTraceSingleByChannel()
