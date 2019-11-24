@@ -39,3 +39,4 @@ Features C++ and Blueprinting
 * 210 Using Deproject To World
 * 211 Using LineTraceSingleByChannel()
 * 212 Unify Player and AI aiming
+* 213 Create Default Sub Objects in C++
