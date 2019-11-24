@@ -37,8 +37,8 @@ void ATankPlayerController::AimTowardsCrosshair()
 
 	if (GetSightRayHitLocation(OutHitLocation)) // Has "side-effect", is going to line trace.
 	{
-			// TODO tell controlled tank to aim at this point.
-			UE_LOG(LogTemp, Warning, TEXT("HitLocation: %s"), *OutHitLocation.ToString());
+		// TODO tell controlled tank to aim at this point.
+		GetControlledTank()->AimAt(OutHitLocation);
 	}
 }
 
@@ -46,7 +46,7 @@ void ATankPlayerController::AimTowardsCrosshair()
 bool ATankPlayerController::GetSightRayHitLocation(FVector& OutHitLocation) const
 {
 	// Find the crosshair position
-	int32 ViewportSizeX, ViewportSizeY;
+	int32 ViewportSizeX, ViewportSizeY; // out parameters
 	GetViewportSize(ViewportSizeX, ViewportSizeY);
 	FVector2D ScreenLocation = FVector2D(ViewportSizeX * CrossHairXLocation, ViewportSizeY * CrossHairYLocation);
 

@@ -38,3 +38,4 @@ Features C++ and Blueprinting
 * 209 Finding Screen Pixel Coordinates
 * 210 Using Deproject To World
 * 211 Using LineTraceSingleByChannel()
+* 212 Unify Player and AI aiming
