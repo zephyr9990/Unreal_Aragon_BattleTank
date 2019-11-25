@@ -40,3 +40,4 @@ Features C++ and Blueprinting
 * 211 Using LineTraceSingleByChannel()
 * 212 Unify Player and AI aiming
 * 213 Create Default Sub Objects in C++
+* 214 BlueprintCallable()
