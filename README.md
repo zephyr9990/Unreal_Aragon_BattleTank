@@ -46,3 +46,4 @@ Features C++ and Blueprinting
 * 217 Using FRotators in Unreal
 * 218 The C++ Compiliation Process
 * 219 Using Forward Declarations
+* 220 BlueprintSpawnableComponent()
