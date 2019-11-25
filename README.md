@@ -42,3 +42,4 @@ Features C++ and Blueprinting
 * 213 Create Default Sub Objects in C++
 * 214 BlueprintCallable()
 * 215 SuggestProjectileVelocity()
+* 216 Predict Projectile Landing Point
