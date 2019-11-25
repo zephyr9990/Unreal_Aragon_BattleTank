@@ -48,3 +48,4 @@ Features C++ and Blueprinting
 * 219 Using Forward Declarations
 * 220 BlueprintSpawnableComponent()
 * 221 Review Our Execution Flow
+* 222 How to Report Bugs
