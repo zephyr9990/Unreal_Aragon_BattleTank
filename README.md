@@ -43,3 +43,4 @@ Features C++ and Blueprinting
 * 214 BlueprintCallable()
 * 215 SuggestProjectileVelocity()
 * 216 Predict Projectile Landing Point
+* 217 Using FRotators in Unreal
