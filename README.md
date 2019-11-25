@@ -45,3 +45,4 @@ Features C++ and Blueprinting
 * 216 Predict Projectile Landing Point
 * 217 Using FRotators in Unreal
 * 218 The C++ Compiliation Process
+* 219 Using Forward Declarations
