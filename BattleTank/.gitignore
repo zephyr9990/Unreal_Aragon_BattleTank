@@ -53,7 +53,14 @@ Binaries/*
 Plugins/*/Binaries/*
 
 # Starter Content
-Content/StarterContent/*
+Content/StarterContent/Architecture
+Content/StarterContent/Audio
+Content/StarterContent/Blueprints
+Content/StarterContent/HDRI
+Content/StarterContent/Maps
+Content/StarterContent/Props
+Content/StarterContent/Shapes
+
 
 # Builds
 Build/*
